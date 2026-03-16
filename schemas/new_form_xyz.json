@@ -1,0 +1,19 @@
+{
+  "title": "New Form XYZ",
+  "description": "Form description",
+  "icon": "📋",
+  "template": "templates/template123.py",
+  "sections": [
+    {
+      "title": "Section 1",
+      "fields": [
+        {
+          "id": "field_1",
+          "label": "Field 1",
+          "type": "text",
+          "required": true
+        }
+      ]
+    }
+  ]
+}
