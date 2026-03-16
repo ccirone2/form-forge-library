@@ -2,7 +2,7 @@
   "title": "New Form",
   "description": "Form description",
   "icon": "📋",
-  "template": "templates/my_template.py",
+  "template": "templates/template123.py",
   "sections": [
     {
       "title": "Section 1",
